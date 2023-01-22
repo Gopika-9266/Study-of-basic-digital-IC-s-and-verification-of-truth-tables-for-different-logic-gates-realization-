@@ -64,9 +64,9 @@ Developed by:
 RegisterNumber:  
 */
 Logic symbol & Truthtable
-RTL realization
-Output:
-RTL
+RTL 
+Output:[ilovepdf_pages-to-jpg (4).zip](https://github.com/Gopika-9266/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/files/10474760/ilovepdf_pages-to-jpg.4.zip)realization
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
