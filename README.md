@@ -63,7 +63,8 @@ Check all the gates following the same procedure.
 
 Program:
 
-module LOGICGATES(a,b,y1,y2,y3,y4,y5,y6,y7);
+```
+module LOGICGATES(a,b,y1,y2,y3,y4,y5,y6,y7)
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
 and(y1,a,b);
@@ -74,7 +75,7 @@ nor(y5,a,b);
 xor(y6,a,b);
 xnor(y7,a,b);
 endmodule
-
+```
 
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: Gopika.R
