@@ -78,9 +78,10 @@ endmodule
 ```
 
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+```
 Developed by: Gopika.R
 RegisterNumber: 22009266 
-
+```
 Logic symbol & Truthtable:
 
 ![213151978-5e297c02-be2d-4126-b491-f5159cd6d503](https://user-images.githubusercontent.com/122762773/214764804-8093f0a2-0c1b-4ce7-aca1-3db4a84a5254.png)
